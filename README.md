@@ -15,7 +15,6 @@ Brought to you with love by your friends at [Solar VPS](http://www.solarvps.com)
 2. Set your database and credentials in /application/config/database.php
 3. Set your AD credentials in /application/config/adlap.php. 
 4. Set your 'smtp_host', 'smtp_port', 'alertContacts' and 'admins' in /application/config/config.php
-4a. (Alert contacts are emailed when a question is asked; admins are allowed to login with their AD credentials to answer questions.)
 5. Create the required database tables using the included questions.sql file
 6. Point your browser at /admin for managers to answer questions, and / for employees to ask, search for and view questions.
 
