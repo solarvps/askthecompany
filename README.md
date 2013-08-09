@@ -7,7 +7,7 @@ Currently only supports AD authentication for admin access.
 
 Build using CodeIgniter, with a little help from Twitter Bootstrap, Parsley.js, Font Awesome, and Animate.css.
 
-Brought to you with love by your friends at [SolarVPS](http://www.solarvps.com)
+Brought to you with love by your friends at [Solar VPS](http://www.solarvps.com)
  
 ## Setup
 
