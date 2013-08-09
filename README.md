@@ -1,7 +1,7 @@
 # Ask the Company!
 
 A simple questions and answers application intended for internal company use. It allows employees to (anonymously, if they wish) ask
-questions that can be answered by an assigned set of managers. Email alerts are sent when new questions or asked or answered, and all
+questions that can be answered by an assigned set of managers. Email alerts are sent when new questions are asked or answered, and all
 activity on answers is logged in an activity log. Questions and Answers can be categorized, archived, and searched. 
 Currently only support AD authentication for admin access.
 
