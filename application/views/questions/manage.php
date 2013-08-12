@@ -129,7 +129,7 @@
 			
 				<div id="recipientContainer">
 					<label for="sendAddress">Recipient:</label>
-					<input type="text" id="sendAddress" name="sendAddress" value="CZy9ZvqiVhQeb0@fortressitx.com">
+					<input type="text" id="sendAddress" name="sendAddress" value="defaultRecipient@mycompany.com">
 				</div>
 			
 				<br><br>
